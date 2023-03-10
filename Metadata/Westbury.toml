@@ -1,0 +1,13 @@
+author = 'Oxalin'
+country_code = 'GB'
+description = "The lines in the Westbury area"
+display_name = 'Westbury'
+doc_files = [ 'Westbury.md' ]
+factual = true
+img_files = [ 'Westbury.bmp' ]
+name = 'Westbury'
+release_date = '2023-03-10'
+rly_file = 'Westbury.rly'
+ssn_files = [ 'Westbury Initial Session.ssn']
+ttb_files = [ 'Westbury 29-03-23.ttb' ]
+version = '1.0.0'
